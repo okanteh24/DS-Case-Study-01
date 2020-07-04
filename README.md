@@ -1,3 +1,5 @@
+ https://docs.google.com/document/d/1WB402kKiHRW2iUyllhouXvhDo6kyqhdqO6vb5I9ceSg/edit?usp=sharing
+ 
  MSDS 6306: Doing Data Science - Case Study 01
 
 Description
